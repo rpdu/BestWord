@@ -1,0 +1,12 @@
+name: BestWord
+title: BestWord
+username:
+account: rpdu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1412412
+bundleId: 2560512
+url: https://rpdu.shinyapps.io/BestWord/
+when: 1572780641.3468
+asMultiple: FALSE
+asStatic: FALSE
